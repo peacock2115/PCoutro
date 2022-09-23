@@ -1,0 +1,25 @@
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\bin\Debug\MyPCOutro.exe
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\bin\Debug\MyPCOutro.pdb
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\bin\Debug\MyPCOutro.xml
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.Form1.resources
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.Resources.resources
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.vbproj.GenerateResource.Cache
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.exe
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.xml
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.pdb
+C:\Users\Rafał\AppData\Local\Temporary Projects\MyPCOutro\obj\x86\Debug\MyPCOutro.dialog.resources
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.exe
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.xml
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.pdb
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\bin\Debug\MyPCOutro.exe
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\bin\Debug\MyPCOutro.pdb
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\bin\Debug\MyPCOutro.xml
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.dialog.resources
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.Form1.resources
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.Resources.resources
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.vbproj.GenerateResource.Cache
+C:\Users\Rafał\Documents\Visual Studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.bsod.resources
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\bin\Debug\MyPCOutro.exe.manifest
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\bin\Debug\MyPCOutro.application
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.exe.manifest
+C:\Users\Rafał\documents\visual studio 2010\Projects\MyPCOutro\MyPCOutro\obj\x86\Debug\MyPCOutro.application
